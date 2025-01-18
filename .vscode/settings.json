@@ -1,4 +1,4 @@
-{ "editor.tabSize": 2, 
+/* { "editor.tabSize": 2, 
 "editor.formatOnSave": true, 
 "editor.formatOnPaste": true, 
 "[html]": { "editor.defaultFormatter": "esbenp.prettier-vscode" }, 
@@ -6,3 +6,4 @@
 "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" }, 
 "[markdown]": { "editor.defaultFormatter": "esbenp.prettier-vscode" }, 
 "[json]": { "editor.defaultFormatter": "esbenp.prettier-vscode" } }
+*/
